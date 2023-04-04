@@ -20,9 +20,6 @@ msgstr  ""
 msgid   "Concluído"
 msgstr  ""
 
-msgid   "Waydroid está aberto."
-msgstr  ""
-
 msgid   "3D acceleration improves performance,\n"
         "but is only compatible with some\n"
         "Intel and AMD graphics cards\n"
@@ -32,4 +29,7 @@ msgid   "3D acceleration improves performance,\n"
         "\n"
         "To Disable 3D\n"
         "sudo waydroid-big-3d 0"
+msgstr  ""
+
+msgid   "Waydroid está aberto."
 msgstr  ""

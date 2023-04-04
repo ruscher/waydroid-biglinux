@@ -21,9 +21,6 @@ msgstr "Aguarde..."
 msgid "Concluído"
 msgstr "Concluído"
 
-msgid "Waydroid está aberto."
-msgstr "Waydroid está aberto."
-
 msgid ""
 "3D acceleration improves performance,\n"
 "but is only compatible with some\n"
@@ -44,3 +41,6 @@ msgstr ""
 "\n"
 "To Disable 3D\n"
 "sudo waydroid-big-3d 0"
+
+msgid "Waydroid está aberto."
+msgstr "Waydroid está aberto."
